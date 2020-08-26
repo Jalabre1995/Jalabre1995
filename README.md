@@ -15,6 +15,15 @@ We Learn From Failure, Not Success.
 
 Shoutout to [Brad Garropy][brad] for the inspiration!
 
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
 [website]: https://jamesqquick.com
 [twitter]: https://twitter.com/jamesqquick
 [youtube]: https://youtube.com/jamesqquick
