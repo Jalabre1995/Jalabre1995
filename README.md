@@ -18,7 +18,7 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 
 🏡 [website][website] **|**  
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
 
 [website]: https://http://jalabre.pythonanywhere.com/.com
 [instagram]: https://www.instagram.com/joshuaalabre/
