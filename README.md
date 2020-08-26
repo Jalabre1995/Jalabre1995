@@ -1,4 +1,4 @@
-### Hi THERE CODERS!!👋
+### Hi There.. My Name is Joshua Alabre!!👋
 
 
 We Learn From Failure, Not Success.
@@ -16,19 +16,11 @@ We Learn From Failure, Not Success.
 Shoutout to [Brad Garropy][brad] for the inspiration!
 
 
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
+🏡 [website][website] **|**  
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-[website]: https://jamesqquick.com
-[twitter]: https://twitter.com/jamesqquick
-[youtube]: https://youtube.com/jamesqquick
-[twitch]: https://twitch.tv/jamesqquick
-[instagram]: https://instagram.com/jamesqquick
-[linkedin]: https://linkedin.com/in/jamesqquick
-[npm]: https://npmjs.com/~jamesqquick
-[brad]: https://github.com/bradgarropy
+[website]: https://http://jalabre.pythonanywhere.com/.com
+[instagram]: https://www.instagram.com/joshuaalabre/
+[linkedin]: https://www.linkedin.com/in/joshua-alabre-6a628a10b/
+
