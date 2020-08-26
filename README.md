@@ -1,7 +1,7 @@
 ### Hi THERE CODERS!!👋
 
 
-Here are some ideas to get you started:
+We Learn From Failure, Not Success.
 
 - 🔭 I’m currently working on building a AI that detects the likelihood of someone buying an item online.
 - 🌱 I’m currently learning C++ and Meachatronics from Georgia Tech and Edx
