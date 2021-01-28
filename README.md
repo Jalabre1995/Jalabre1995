@@ -8,7 +8,7 @@ We Learn From Failure, Not Success.
 - 👯 I’m looking to collaborate on with other engineers interested in AI and Robotics
 - 🤔 I’m looking for help with entry level software engineering jobs involving Python, Javascript, and C++.
 - 📫 How to reach me: 
-- 💖Eamil: joshuaalabre@gmail.com
+- 💖Email: joshuaalabre@gmail.com
 - 💖linkedIn : https://www.linkedin.com/in/joshua-alabre-6a628a10b/
 -💖GitHub : https://github.com/Jalabre1995
 - ⚡ Fun fact: I love building toy robots. I also run 60 miles a week, lift, and compete in half marathons. I'm half crazy!
