@@ -16,11 +16,9 @@ We Learn From Failure, Not Success.
 Shoutout to [Brad Garropy][brad] for the inspiration!
 
 
-🏡 [website][website] **|**  
-📷 [instagram][instagram] **|** 
+🏡 [website][website] **|**   
 👔 [linkedin][linkedin] **|**
 
 [website]: http://jalabre.pythonanywhere.com/
-[instagram]: https://www.instagram.com/joshuaalabre/
 [linkedin]: https://www.linkedin.com/in/joshua-alabre-6a628a10b/
 
